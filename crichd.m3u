@@ -1,0 +1,131 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="A Sports HD" tvg-country="US" tvg-logo="https://i.postimg.cc/8k0NxG1b/1200x600wa.png" tvg-chno="1" group-title="",A Sports HD
+https://nowsports.co.in/cric/stream.m3u8?id=342c5d899393b1f033a99bb416b12d9a|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="2" tvg-name="Willow (by Cricbuzz)" tvg-country="US" tvg-logo="https://i.postimg.cc/XY7J08Rf/Willow-Cricbuzz.png" tvg-chno="2" group-title="",Willow (by Cricbuzz)
+https://nowsports.co.in/cric/stream.m3u8?id=497e140e2da647b56759358a7cd58f32|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="3" tvg-name="Ten Sports HD PK" tvg-country="US" tvg-logo="https://i.postimg.cc/kGvMNDHC/Ten-Sports-HD-Pakistan.png" tvg-chno="3" group-title="",Ten Sports HD PK
+https://nowsports.co.in/cric/stream.m3u8?id=5e24a0007b1adcd1dbb819609bc36ed3|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="4" tvg-name="Cricbuzz 1" tvg-country="US" tvg-logo="https://i.postimg.cc/xCGRVm5d/cricbuzz1.jpg" tvg-chno="4" group-title="",Cricbuzz 1
+https://nowsports.co.in/cric/stream.m3u8?id=2d574747f262337fca14969d409e49ea|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="5" tvg-name="Star Sports 1 HD" tvg-country="US" tvg-logo="https://i.postimg.cc/qRh1gnCg/Star-Sports-1-HD.png" tvg-chno="5" group-title="",Star Sports 1 HD
+https://nowsports.co.in/cric/stream.m3u8?id=2d1d9e504afdd24a2936ad59fd7934d6|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="6" tvg-name="TNT Sports 1" tvg-country="US" tvg-logo="https://i.postimg.cc/C5sPFVRJ/TNT-Sports.jpg" tvg-chno="6" group-title="",TNT Sports 1
+https://nowsports.co.in/cric/stream.m3u8?id=0b78e521750bdaacde4800fe60804b52|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="7" tvg-name="TNT Sports 2" tvg-country="US" tvg-logo="https://i.postimg.cc/C5sPFVRJ/TNT-Sports.jpg" tvg-chno="7" group-title="",TNT Sports 2
+https://nowsports.co.in/cric/stream.m3u8?id=d662f58b27c0bda8424beb6b6bda1fa9|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="8" tvg-name="TNT Sports 3" tvg-country="US" tvg-logo="https://i.postimg.cc/C5sPFVRJ/TNT-Sports.jpg" tvg-chno="8" group-title="",TNT Sports 3
+https://nowsports.co.in/cric/stream.m3u8?id=ca4b18d34b57aa60406f07c7e69dcd4f|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="9" tvg-name="TNT Sports 4" tvg-country="US" tvg-logo="https://i.postimg.cc/C5sPFVRJ/TNT-Sports.jpg" tvg-chno="9" group-title="",TNT Sports 4
+https://nowsports.co.in/cric/stream.m3u8?id=e16551c6ade5ff36fe48cd2bf26b610f|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="10" tvg-name="Sky Sports Main Event" tvg-country="US" tvg-logo="https://i.postimg.cc/RCWw4mH0/Sky-Sports-MAIN-EVENT-pic-770x431.jpg" tvg-chno="10" group-title="",Sky Sports Main Event
+https://nowsports.co.in/cric/stream.m3u8?id=04d155d0b78518e8302ed9cb4822d1ca|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="11" tvg-name="Sky Sports Cricket" tvg-country="US" tvg-logo="https://i.postimg.cc/HncjQpgs/Sky-Sports-Cricket.png" tvg-chno="11" group-title="",Sky Sports Cricket
+https://nowsports.co.in/cric/stream.m3u8?id=24b2884a7a74d9e2beb23fcad8a99f56|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="12" tvg-name="Sky Sports Football" tvg-country="US" tvg-logo="https://i.postimg.cc/5ygQ3f7h/Sky-sport-Football-01.png" tvg-chno="12" group-title="",Sky Sports Football
+https://nowsports.co.in/cric/stream.m3u8?id=b75547a3b63c620308c03ac8e859d098|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="13" tvg-name="Sky Sports Plus" tvg-country="US" tvg-logo="https://i.postimg.cc/50p0Cnkg/Sky-Sports-Plus.png" tvg-chno="13" group-title="",Sky Sports Plus
+https://nowsports.co.in/cric/stream.m3u8?id=6040682fcc2870fe260fa51438883585|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="14" tvg-name="Sky Sports NFL" tvg-country="US" tvg-logo="https://i.postimg.cc/25rr7nWK/NFL.jpg" tvg-chno="14" group-title="",Sky Sports NFL
+https://nowsports.co.in/cric/stream.m3u8?id=3d024a7bb1bd53f62f497f39b47564b7|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="15" tvg-name="Sky Sports Golf" tvg-country="US" tvg-logo="https://i.postimg.cc/7YS3WTbk/Sky-Sports-Golf.png" tvg-chno="15" group-title="",Sky Sports Golf
+https://nowsports.co.in/cric/stream.m3u8?id=2003d4c36c0b051ffb185636335481e5|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="16" tvg-name="Sky Sports Premier League" tvg-country="US" tvg-logo="https://i.postimg.cc/13BsMJQN/Sky-Sports-Premier-League.png" tvg-chno="16" group-title="",Sky Sports Premier League
+https://nowsports.co.in/cric/stream.m3u8?id=6ebfbd633b5fe62f4380f8ab1d83e0ab|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="17" tvg-name="Sky Sports F1 Live" tvg-country="US" tvg-logo="https://i.postimg.cc/fTKYjQJ7/Sky-Sports-F1.png" tvg-chno="17" group-title="",Sky Sports F1 Live
+https://nowsports.co.in/cric/stream.m3u8?id=ff58b11766fa286d3beae4683adf06af|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="18" tvg-name="Sky Sports Mix" tvg-country="US" tvg-logo="https://i.postimg.cc/NM6k39fS/Sky-Sport-Mix.png" tvg-chno="18" group-title="",Sky Sports Mix
+https://nowsports.co.in/cric/stream.m3u8?id=65993a88e5b3a6aa622b5cd133b0cce8|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="19" tvg-name="Sky Sports Tennis" tvg-country="US" tvg-logo="https://i.postimg.cc/LsMyhh3V/Sky-Sports-Tennis.png" tvg-chno="19" group-title="",Sky Sports Tennis
+https://nowsports.co.in/cric/stream.m3u8?id=57ba2dd219883d82f424d0030fbc977e|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="20" tvg-name="PTV Sports HD" tvg-country="US" tvg-logo="https://i.postimg.cc/DzyWvSgR/PTV-Sports.png" tvg-chno="20" group-title="",PTV Sports HD
+https://nowsports.co.in/cric/stream.m3u8?id=8fb9c2126d15ea60526c3fd9448c0bb8|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="21" tvg-name="Astro Cricket" tvg-country="US" tvg-logo="https://i.postimg.cc/QNnJR3XX/Astro-Cricket.png" tvg-chno="21" group-title="",Astro Cricket
+https://nowsports.co.in/cric/stream.m3u8?id=482bc495407808d7a4b20a11d2eecb10|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="22" tvg-name="EuroSport 1" tvg-country="US" tvg-logo="https://i.postimg.cc/T2yt2wNy/image.jpg" tvg-chno="22" group-title="",EuroSport 1
+https://nowsports.co.in/cric/stream.m3u8?id=5de2e06db773b1d9ef277c49755f4915|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="23" tvg-name="EuroSport 2" tvg-country="US" tvg-logo="https://i.postimg.cc/XYNFJ1N2/image.jpg" tvg-chno="23" group-title="",EuroSport 2
+https://nowsports.co.in/cric/stream.m3u8?id=6b7e3802f3fc2ecb54baffec21fba48e|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="24" tvg-name="Premier Sports 1" tvg-country="US" tvg-logo="https://i.postimg.cc/90C35Jry/Premier-Sports-1.png" tvg-chno="24" group-title="",Premier Sports 1
+https://nowsports.co.in/cric/stream.m3u8?id=fa4a19c3848f57e8f55458b0bdaf5ea5|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="25" tvg-name="Premier Sports 2" tvg-country="US" tvg-logo="https://i.postimg.cc/pXQ78gsv/Premier-Sports-2.png" tvg-chno="25" group-title="",Premier Sports 2
+https://nowsports.co.in/cric/stream.m3u8?id=6af6eb113eb137d2e14cfa768a1c4bc8|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="26" tvg-name="Super Sport Cricket" tvg-country="US" tvg-logo="https://i.postimg.cc/BZxMPyss/srtijz1643382350.png" tvg-chno="26" group-title="",Super Sport Cricket
+https://nowsports.co.in/cric/stream.m3u8?id=07fc63aad877b90f0f84148038f036cc|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="27" tvg-name="Super Sport Premier League" tvg-country="US" tvg-logo="https://i.postimg.cc/wMsDTpxB/Super-Sport-Premier-League.png" tvg-chno="27" group-title="",Super Sport Premier League
+https://nowsports.co.in/cric/stream.m3u8?id=9591cae8265bc4382fd5595eb41d1b10|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="28" tvg-name="Super Sport Laliga" tvg-country="US" tvg-logo="https://images.supersport.com/media/ngsfbrab/laliga.png?width=1140&quality=90&format=webp" tvg-chno="28" group-title="",Super Sport Laliga
+https://nowsports.co.in/cric/stream.m3u8?id=915481e78f7555e2b28e54bd0738e186|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="29" tvg-name="Super Sport Football" tvg-country="US" tvg-logo="https://i.postimg.cc/pdkySzwp/7lxofw1656964140.png" tvg-chno="29" group-title="",Super Sport Football
+https://nowsports.co.in/cric/stream.m3u8?id=a992f89494255cdaa158666354fbe70e|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="30" tvg-name="Super Sport Action" tvg-country="US" tvg-logo="https://i.postimg.cc/fT2N15y4/Super-Sport-Action.png" tvg-chno="30" group-title="",Super Sport Action
+https://nowsports.co.in/cric/stream.m3u8?id=c95587d8d29086bf9bff55a2ade6e5cc|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="31" tvg-name="Super Sport Grandstand" tvg-country="US" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/aitip41642604897.png" tvg-chno="31" group-title="",Super Sport Grandstand
+https://nowsports.co.in/cric/stream.m3u8?id=3854b8e3d30ab4928710abb503fa6154|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="32" tvg-name="Super Sport Variety 1" tvg-country="US" tvg-logo="https://i.postimg.cc/kDrLYqh3/Super-Sport-Variety-1.png" tvg-chno="32" group-title="",Super Sport Variety 1
+https://nowsports.co.in/cric/stream.m3u8?id=ec34b0578f17d29a1b67acbb46226351|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="33" tvg-name="Super Sport Variety 2" tvg-country="US" tvg-logo="https://i.postimg.cc/0Qh8xgHZ/Super-Sport-Variety-2.png" tvg-chno="33" group-title="",Super Sport Variety 2
+https://nowsports.co.in/cric/stream.m3u8?id=bec054127d6e97d07ea4cbad6f091d60|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="34" tvg-name="Super Sport Variety 3" tvg-country="US" tvg-logo="https://i.postimg.cc/4dHgWLNc/Super-Sport-Variety-3.png" tvg-chno="34" group-title="",Super Sport Variety 3
+https://nowsports.co.in/cric/stream.m3u8?id=6415cd4dee443c934d22133a4de4bbd2|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="35" tvg-name="Super Sport Variety 4" tvg-country="US" tvg-logo="https://i.postimg.cc/65fNbGwM/Super-Sport-Variety-4.png" tvg-chno="35" group-title="",Super Sport Variety 4
+https://nowsports.co.in/cric/stream.m3u8?id=6e09ff439459d3d941e13dda7cdefb12|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="36" tvg-name="TSN 1" tvg-country="US" tvg-logo="https://i.postimg.cc/3xNnbF4c/s11182-ll-h3-aa.png" tvg-chno="36" group-title="",TSN 1
+https://nowsports.co.in/cric/stream.m3u8?id=9db255d4abdf063a85d98e351ef52a2f|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="37" tvg-name="TSN 2" tvg-country="US" tvg-logo="https://i.postimg.cc/fbKPGRWH/tsn-2.png" tvg-chno="37" group-title="",TSN 2
+https://nowsports.co.in/cric/stream.m3u8?id=b16e82d665c00bc170d08793b76c8a29|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="38" tvg-name="TSN 3" tvg-country="US" tvg-logo="https://i.postimg.cc/LsLyS69d/tsn-3.png" tvg-chno="38" group-title="",TSN 3
+https://nowsports.co.in/cric/stream.m3u8?id=0609e2b2de607bb0ed6cfb2de72a4f09|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="39" tvg-name="TSN 4" tvg-country="US" tvg-logo="https://i.postimg.cc/9McBjdgT/yrrvpq1433380019.png" tvg-chno="39" group-title="",TSN 4
+https://nowsports.co.in/cric/stream.m3u8?id=1b31373e4476074675b443ed34d5a8c2|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="40" tvg-name="Sony Sports Ten 1" tvg-country="US" tvg-logo="https://i.postimg.cc/xC22FjwG/Sony-Sports-Ten-1.png" tvg-chno="40" group-title="",Sony Sports Ten 1
+https://nowsports.co.in/cric/stream.m3u8?id=5f5acedabacf5decfb4378a34df13249|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="41" tvg-name="Sky Sports Cricket" tvg-country="US" tvg-logo="https://i.postimg.cc/HncjQpgs/Sky-Sports-Cricket.png" tvg-chno="41" group-title="",Sky Sports Cricket
+https://nowsports.co.in/cric/stream.m3u8?id=3c0fcd766ba09ec75d9e8c1cb685d0d6|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="42" tvg-name="Star Sports 1 HD" tvg-country="US" tvg-logo="https://i.postimg.cc/qRh1gnCg/Star-Sports-1-HD.png" tvg-chno="42" group-title="",Star Sports 1 HD
+https://nowsports.co.in/cric/stream.m3u8?id=3b132ba3184e3ad92404fd1276f324b6|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="43" tvg-name="Star Sports 1 Hindi HD" tvg-country="US" tvg-logo="https://i.postimg.cc/PxNLT5ZX/image.jpg" tvg-chno="43" group-title="",Star Sports 1 Hindi HD
+https://nowsports.co.in/cric/stream.m3u8?id=889021778e5ae66bb3437a3c89ec0556|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="44" tvg-name="A Sports HD" tvg-country="US" tvg-logo="https://i.postimg.cc/8k0NxG1b/1200x600wa.png" tvg-chno="44" group-title="",A Sports HD
+https://nowsports.co.in/cric/stream.m3u8?id=e9c47e60545b3740ad6d764ca01868b9|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="45" tvg-name="Sky Sport 3 NewZealand" tvg-country="US" tvg-logo="https://i.postimg.cc/zGVT2qNc/sky-Sport3.png" tvg-chno="45" group-title="",Sky Sport 3 NewZealand
+https://nowsports.co.in/cric/stream.m3u8?id=584718af132bcc69bd05b08c83bb393a|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="46" tvg-name="PTV Sports HD" tvg-country="US" tvg-logo="https://i.postimg.cc/DzyWvSgR/PTV-Sports.png" tvg-chno="46" group-title="",PTV Sports HD
+https://nowsports.co.in/cric/stream.m3u8?id=cb759f26e6ceef1f6ddd3866dacef127|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="47" tvg-name="Ten Sports HD (PK)" tvg-country="US" tvg-logo="https://i.postimg.cc/kGvMNDHC/Ten-Sports-HD-Pakistan.png" tvg-chno="47" group-title="",Ten Sports HD (PK)
+https://nowsports.co.in/cric/stream.m3u8?id=db1efc21724d55fd816060a0f890c23e|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="48" tvg-name="Fox Cricket 501 HD" tvg-country="US" tvg-logo="https://i.postimg.cc/sX8cK1QK/FOX-Cricket.png" tvg-chno="48" group-title="",Fox Cricket 501 HD
+https://nowsports.co.in/cric/stream.m3u8?id=5727c495719f684b6aaf18ae90a916a9|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="49" tvg-name="Willow by Cricbuzz" tvg-country="US" tvg-logo="https://i.postimg.cc/XY7J08Rf/Willow-Cricbuzz.png" tvg-chno="49" group-title="",Willow by Cricbuzz
+https://nowsports.co.in/cric/stream.m3u8?id=a46c0d6d5897a39d8f72f51abb13b9d3|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="50" tvg-name="Willow Xtra by Cricbuzz" tvg-country="US" tvg-logo="https://i.postimg.cc/mDPjQTnR/Willow-Xtra.png" tvg-chno="50" group-title="",Willow Xtra by Cricbuzz
+https://nowsports.co.in/cric/stream.m3u8?id=fc7cd46d8ef3f1def6acb3da1528831d|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="51" tvg-name="Sky Sports Mix HD" tvg-country="US" tvg-logo="https://i.postimg.cc/NM6k39fS/Sky-Sport-Mix.png" tvg-chno="51" group-title="",Sky Sports Mix HD
+https://nowsports.co.in/cric/stream.m3u8?id=8b7ab44f583d4bf8abc552cd052400d5|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="52" tvg-name="ESPN" tvg-country="US" tvg-logo="https://i.postimg.cc/V6t1xv17/ESPN.png" tvg-chno="52" group-title="",ESPN
+https://nowsports.co.in/cric/stream.m3u8?id=017f41a2ef4ff9d39f45f680b88cd23b|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="53" tvg-name="TNT Sports 1" tvg-country="US" tvg-logo="https://i.postimg.cc/C5sPFVRJ/TNT-Sports.jpg" tvg-chno="53" group-title="",TNT Sports 1
+https://nowsports.co.in/cric/stream.m3u8?id=80a0b1ffe4fc3647ec162831a24821ee|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="54" tvg-name="TNT Sports 2" tvg-country="US" tvg-logo="https://i.postimg.cc/C5sPFVRJ/TNT-Sports.jpg" tvg-chno="54" group-title="",TNT Sports 2
+https://nowsports.co.in/cric/stream.m3u8?id=39cc7e61454dc53425d1c1337145d08a|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="55" tvg-name="Super Sport Cricket" tvg-country="US" tvg-logo="https://i.postimg.cc/BZxMPyss/srtijz1643382350.png" tvg-chno="55" group-title="",Super Sport Cricket
+https://nowsports.co.in/cric/stream.m3u8?id=045b2c8ee2e9c52d16c74edd745e7d0f|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="56" tvg-name="Sony Sports Ten 1 HD" tvg-country="US" tvg-logo="https://i.postimg.cc/MpMM39xH/Ten-1.png" tvg-chno="56" group-title="",Sony Sports Ten 1 HD
+https://nowsports.co.in/cric/stream.m3u8?id=cca83e96d2a2ba96017dc4f2516b91cf|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="57" tvg-name="Sport TV 1" tvg-country="US" tvg-logo="https://i.postimg.cc/8cXXpB1N/Sport-TV-1-Portuguese.png" tvg-chno="57" group-title="",Sport TV 1
+https://nowsports.co.in/cric/stream.m3u8?id=2b9965c5c7f9bcc0268445ed6aa112ff|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="58" tvg-name="Sport TV 2" tvg-country="US" tvg-logo="https://i.postimg.cc/pX9qQjW5/Sport-TV-2-Portuguese.png" tvg-chno="58" group-title="",Sport TV 2
+https://nowsports.co.in/cric/stream.m3u8?id=854493b571a32aa8248da1ea96e8a3dc|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="59" tvg-name="Sport TV 3" tvg-country="US" tvg-logo="https://i.postimg.cc/Bv5SwtgJ/Sport-TV-Portuguese.png" tvg-chno="59" group-title="",Sport TV 3
+https://nowsports.co.in/cric/stream.m3u8?id=524af665a940fbcce761c55b34cfea5e|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="60" tvg-name="Sport TV 4" tvg-country="US" tvg-logo="https://i.postimg.cc/Bv5SwtgJ/Sport-TV-Portuguese.png" tvg-chno="60" group-title="",Sport TV 4
+https://nowsports.co.in/cric/stream.m3u8?id=9fa244a550d902e18085db878431eb04|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="61" tvg-name="Sport TV 5" tvg-country="US" tvg-logo="https://i.postimg.cc/Bv5SwtgJ/Sport-TV-Portuguese.png" tvg-chno="61" group-title="",Sport TV 5
+https://nowsports.co.in/cric/stream.m3u8?id=77109bf39769ebd2e4438511a65d0c70|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="62" tvg-name="DAZN Sports 1" tvg-country="US" tvg-logo="https://i.postimg.cc/mk2w6B8B/image.jpg" tvg-chno="62" group-title="",DAZN Sports 1
+https://nowsports.co.in/cric/stream.m3u8?id=ee4b20df89ed8a094ba49e01f8d24981|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="63" tvg-name="DAZN Sports 2" tvg-country="US" tvg-logo="https://i.postimg.cc/xCq3SYWR/image.jpg" tvg-chno="63" group-title="",DAZN Sports 2
+https://nowsports.co.in/cric/stream.m3u8?id=419e56e8a7b8d9a5bacb8dfafaa13835|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="64" tvg-name="DAZN Sports 3" tvg-country="US" tvg-logo="https://i.postimg.cc/wMXtCGT2/image.jpg" tvg-chno="64" group-title="",DAZN Sports 3
+https://nowsports.co.in/cric/stream.m3u8?id=cf79cdaca6f839757bcee4b40accd671|referer=https://nowsports.co.in/cric/
+#EXTINF:-1 tvg-id="65" tvg-name="Benfica TV/BTV" tvg-country="US" tvg-logo="https://i.postimg.cc/tgZfY6L5/Benfica-TV.png" tvg-chno="65" group-title="",Benfica TV/BTV
+https://nowsports.co.in/cric/stream.m3u8?id=1687091495de48042be1416dc474a093|referer=https://nowsports.co.in/cric/
